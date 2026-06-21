@@ -1,0 +1,127 @@
+{
+  "id": "zac-tools",
+  "title": "Zac Tools",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "Zac",
+      "discord": "mrzwij",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "zactables",
+      "label": "Zactables",
+      "path": "packs/zactables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "zacros",
+      "label": "Zacros",
+      "path": "packs/zacros",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "zactors-pf2",
+      "label": "Zactors (PF2)",
+      "path": "packs/zactors-pf2",
+      "type": "Actor",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "zactors-sf2",
+      "label": "Zactors (SF2)",
+      "path": "packs/zactors-sf2",
+      "type": "Actor",
+      "system": "sf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "zactracks",
+      "label": "Zactracks",
+      "path": "packs/zactracks",
+      "type": "Playlist",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "aliens-with-art",
+      "label": "Aliens with Art",
+      "path": "packs/aliens-with-art",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "sf2e",
+      "flags": {}
+    },
+    {
+      "name": "equipment-with-art-sf2",
+      "label": "Equipment with Art (SF2)",
+      "path": "packs/equipment-with-art-sf2",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "sf2e",
+      "flags": {}
+    },
+    {
+      "name": "monsters-with-art-pf2",
+      "label": "Monsters with Art (PF2)",
+      "path": "packs/monsters-with-art-pf2",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "equipment-with-art-pf2",
+      "label": "Equipment with Art (PF2)",
+      "path": "packs/equipment-with-art-pf2",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ],
+  "description": ""
+}

@@ -1,0 +1,8 @@
+2026/06/16-18:30:07.717 51c Recovering log #164
+2026/06/16-18:30:07.723 51c Delete type=0 #164
+2026/06/16-18:30:07.723 51c Delete type=3 #162
+2026/06/16-18:40:49.628 3360 Level-0 table #169: started
+2026/06/16-18:40:49.628 3360 Level-0 table #169: 0 bytes OK
+2026/06/16-18:40:49.630 3360 Delete type=0 #167
+2026/06/16-18:40:49.631 3360 Manual compaction at level-0 from '!tables!nernVikU3OMCJA7V' @ 72057594037927935 : 1 .. '!tables.results!nernVikU3OMCJA7V.zyO83vC4ouXIeLc0' @ 0 : 0; will stop at (end)
+2026/06/16-18:40:49.631 3360 Manual compaction at level-1 from '!tables!nernVikU3OMCJA7V' @ 72057594037927935 : 1 .. '!tables.results!nernVikU3OMCJA7V.zyO83vC4ouXIeLc0' @ 0 : 0; will stop at (end)
