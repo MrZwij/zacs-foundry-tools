@@ -1,6 +1,6 @@
 {
-  "id": "zac-tools",
-  "title": "Zac Tools",
+  "id": "zacs-foundry-tools",
+  "title": "Zac's Foundry Tools",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "13",
